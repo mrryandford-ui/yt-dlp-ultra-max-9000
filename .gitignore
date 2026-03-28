@@ -1,0 +1,12 @@
+﻿# Compiled installer (build artifact - distribute via Releases)
+*.EXE
+*.exe
+
+# yt-dlp runtime files
+yt-dlp-archive.txt
+youtube-urls.txt
+downloads/
+
+# Dev/test scripts
+TEST-SCRIPT.ps1
+BACKUP-SCRIPT.bat
